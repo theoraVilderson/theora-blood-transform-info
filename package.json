@@ -9,5 +9,13 @@
   },
   "keywords": ["blood","transform","info","theora","theora-blood-transform-info"],
   "author": "Theora Vilderson",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoraVilderson/theora-blood-transform-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theoraVilderson/theora-blood-transform-info/issues"
+  },
+  "homepage": "https://github.com/theoraVilderson/theora-blood-transform-info#readme"
 }
