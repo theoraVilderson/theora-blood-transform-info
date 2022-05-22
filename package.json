@@ -1,0 +1,13 @@
+{
+  "name": "theora-blood-transform-info",
+  "version": "1.0.0",
+  "description": "this package can tell you about blood transformation",
+  "main": "bloodInfo.js",
+  "type":"module",
+  "scripts": {
+    "test": "node bloodInfo.js"
+  },
+  "keywords": ["blood","transform","info","theora","theora-blood-transform-info"],
+  "author": "Theora Vilderson",
+  "license": "MIT"
+}
